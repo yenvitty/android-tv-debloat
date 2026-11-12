@@ -1,0 +1,15 @@
+# Packages disabled with: pm disable-user --user 0 <pkg>
+# One per line. restore.sh re-enables all of them.
+com.miui.tv.analytics
+com.xiaomi.statistic
+com.mitv.tvhome.michannel
+com.xm.webcontent
+com.xiaomi.mitv.tvmanager
+fusion.android.tv.demo
+android.autoinstalls.config.xiaomi.amelie
+com.xiaomi.mitv.handbook
+com.xiaomo.tv.milegal
+com.mitv.toolhouse
+com.google.android.partnersetup
+com.google.android.feedback
+com.google.android.tvlauncher

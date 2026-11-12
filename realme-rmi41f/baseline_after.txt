@@ -1,0 +1,17 @@
+# baseline_after.txt — Sat Nov  7 21:08:30 IST 2026. Hands-off reading about 6 min after reboot, same uptime as baseline_before.
+MemTotal:         939876 kB
+MemFree:          124936 kB
+MemAvailable:     387256 kB
+Cached:           337748 kB
+SwapTotal:       1023996 kB
+SwapFree:         739836 kB
+Filesystem       Size Used Avail Use% Mounted on
+/dev/block/dm-50 4.0G 1.7G  2.1G  45% /data/user/0
+Home: com.google.android.apps.tv.launcherx/.home.HomeActivity (HOME role: com.spocky.projengmenu)
+Projectivy CPU: 35% then 10% then 0% from about 2.5 min after boot, surfaceflinger the same. Play Store: 0% CPU, 0 sync requests in 6 min.
+Disabled:
+package:com.cltv.hybrid
+package:com.google.android.feedback
+package:com.google.android.partnersetup
+package:com.realtek.retailmode
+package:tv.anoki.acr.anokiacroptin

@@ -1,0 +1,17 @@
+# baseline_before.txt — Sat Nov  7 20:41:15 IST 2026 (TV state as found, not freshly booted; uptime:  20:41:15 up 6 min,  0 users,  load average: 18.74, 16.77, 8.38)
+MemTotal:         939876 kB
+MemFree:          186180 kB
+MemAvailable:     376384 kB
+Cached:           257708 kB
+SwapTotal:       1023996 kB
+SwapFree:         743420 kB
+Filesystem       Size Used Avail Use% Mounted on
+/dev/block/dm-50 4.0G 1.7G  2.1G  45% /data/user/0
+
+# Measured at about 9-11 min uptime, on the Projectivy home screen, hands off
+Projectivy CPU: ~40% of one core | surfaceflinger: ~32% | graphics composer: ~9% (top, 3 samples over 30s)
+Play Store CPU: ~20% (2:28 of CPU time in the first 11 min)
+Stock launcher RAM: 24 MB + 20 MB coreservices before any Home press; 87 MB + 20 MB after one
+Projectivy RAM: 36-38 MB
+Home priorities: launcherx 2, setupwraith RecoveryActivity 1, Projectivy 0. HOME role holder: Projectivy
+Animation scales: already 0.5 / 0.5 / 0.5

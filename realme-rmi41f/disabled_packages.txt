@@ -1,0 +1,7 @@
+# Packages disabled with: pm disable-user --user 0 <pkg>
+# One per line. restore.sh re-enables all of them.
+# com.cltv.hybrid is not listed: it was already disabled through TV Settings before this work.
+tv.anoki.acr.anokiacroptin
+com.realtek.retailmode
+com.google.android.feedback
+com.google.android.partnersetup

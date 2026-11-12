@@ -1,0 +1,24 @@
+# baseline_after.txt — measured right after a 7-app launch test, post-reboot, Projectivy as Home. (Fresh-boot reading 2 min after reboot, before any app opened: MemAvailable 534560 kB, SwapFree 152828 kB.)
+MemTotal:        1437820 kB
+MemFree:           38284 kB
+MemAvailable:     425504 kB
+Cached:           433688 kB
+SwapTotal:        409596 kB
+SwapFree:            284 kB
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/block/dm-12 4.0G  2.9G  0.9G  75% /data/user/0
+home: com.spocky.projengmenu/.ui.home.MainActivity
+disabled:
+package:android.autoinstalls.config.xiaomi.amelie
+package:com.google.android.feedback
+package:com.google.android.partnersetup
+package:com.google.android.tvlauncher
+package:com.mitv.toolhouse
+package:com.mitv.tvhome.michannel
+package:com.miui.tv.analytics
+package:com.xiaomi.mitv.handbook
+package:com.xiaomi.mitv.tvmanager
+package:com.xiaomi.statistic
+package:com.xiaomo.tv.milegal
+package:com.xm.webcontent
+package:fusion.android.tv.demo
