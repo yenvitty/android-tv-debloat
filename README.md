@@ -117,7 +117,6 @@ your Wi-Fi could try to connect.
 
 - [cleanyourtv](https://github.com/Gathin23/cleanyourtv), whose device notes for the `MiTV-MOSR1` and related models
   flagged the packages and launcher swaps to avoid.
-- Planned and run with [Claude Code](https://claude.com/claude-code).
 
 ## License
 
